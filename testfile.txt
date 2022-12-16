@@ -1,6 +1,7 @@
 Hello this is a test to upload file in GitHub
 
 This seems cool, learn about GIT.
+<<<<<<< HEAD
 
 Testing Revert and reset 
 
@@ -9,3 +10,5 @@ change these to know
 112
 
 22 - 11
+=======
+>>>>>>> parent of eb7ae1f (This is 2nd commit to know reset & revert)
